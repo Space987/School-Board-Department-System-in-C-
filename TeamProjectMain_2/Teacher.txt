@@ -1,0 +1,6 @@
+2002, Steve ,12, male,master, computer vision,4003
+2004, Patrick Dalton,30, other,phd, pre-history,4002
+2003, Sana Malkesh,28, female,phd, topology,4003
+2005, Anastasia Ponomareva,32, female,master, micro economy,4001
+2001, Steve James,37, male,phd, computer vision,4001
+

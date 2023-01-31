@@ -1,0 +1,8 @@
+1001,Kyle,18,male,Physics,1001,4001
+1005,Emma Vados,18,female,History,2,4003
+1006,Taiandre Paixao,20,male,Law,5,4001
+1005,Malaika Levesque,19,other,Economics,3,4001
+1003,Martin,19,male,Theology,3,4002
+1214,4,4,4,4,4,4
+1768,4,4,4,4,4,2
+1889,4,4,4,4,4,21

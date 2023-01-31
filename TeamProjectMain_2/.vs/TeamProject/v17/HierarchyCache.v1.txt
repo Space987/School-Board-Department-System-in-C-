@@ -1,0 +1,222 @@
+﻿++Solution 'TeamProject' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:TeamProject.sln
+++TeamProject
+i:{00000000-0000-0000-0000-000000000000}:TeamProject
+++Properties
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\properties\
+++References
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:
+++Microsoft.CSharp
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:
+++System
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:
+++System.Configuration
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:
+++System.Core
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:
+++System.Data
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:
+++System.Data.DataSetExtensions
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:
+++System.Deployment
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:
+++System.Drawing
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:
+++System.Net.Http
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:
+++System.Windows.Forms
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:
+++System.Xml
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:
+++System.Xml.Linq
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:
+++AddDepartment.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\adddepartment.cs
+++AddStaffForm.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\addstaffform.cs
+++AddStudents.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\addstudents.cs
+++AddTeacher.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\addteacher.cs
+++App.config
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\app.config
+++ChangeLanguage.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\changelanguage.cs
+++CheckDetailsForm.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\checkdetailsform.cs
+++DeanForm.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\deanform.cs
+++Department.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\department.cs
+++DepartmentForm.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\departmentform.cs
+++Form1.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\form1.cs
+++Form1.Designer.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\form1.designer.cs
+++Form1.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\form1.resx
+++Person.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\person.cs
+++Program.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\program.cs
+++SetDeanForm.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\setdeanform.cs
+++Staff.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\staff.cs
+++StaffForm.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\staffform.cs
+++Student.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\student.cs
+++StudentForm.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\studentform.cs
+++Teacher.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\teacher.cs
+++TeacherForm.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\teacherform.cs
+++ViewDepartmentForm.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\viewdepartmentform.cs
+++ViewStaff.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\viewstaff.cs
+++ViewStuForm.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\viewstuform.cs
+++ViewTeacher.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\viewteacher.cs
+++DataSources
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\properties\datasources\
+++AssemblyInfo.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\properties\assemblyinfo.cs
+++Resources.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\properties\resources.resx
+++Settings.settings
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\properties\settings.settings
+++AddDepartment.Designer.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\adddepartment.designer.cs
+++AddDepartment.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\adddepartment.resx
+++AddStaffForm.Designer.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\addstaffform.designer.cs
+++AddStaffForm.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\addstaffform.resx
+++AddStudents.Designer.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\addstudents.designer.cs
+++AddStudents.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\addstudents.resx
+++AddTeacher.Designer.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\addteacher.designer.cs
+++AddTeacher.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\addteacher.resx
+++CheckDetailsForm.Designer.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\checkdetailsform.designer.cs
+++CheckDetailsForm.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\checkdetailsform.resx
+++DeanForm.Designer.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\deanform.designer.cs
+++DeanForm.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\deanform.resx
+++DepartmentForm.Designer.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\departmentform.designer.cs
+++DepartmentForm.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\departmentform.resx
+++SetDeanForm.Designer.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\setdeanform.designer.cs
+++SetDeanForm.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\setdeanform.resx
+++StaffForm.Designer.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\staffform.designer.cs
+++StaffForm.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\staffform.resx
+++StudentForm.Designer.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\studentform.designer.cs
+++StudentForm.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\studentform.resx
+++TeacherForm.Designer.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\teacherform.designer.cs
+++TeacherForm.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\teacherform.resx
+++ViewDepartmentForm.Designer.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\viewdepartmentform.designer.cs
+++ViewDepartmentForm.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\viewdepartmentform.resx
+++ViewStaff.Designer.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\viewstaff.designer.cs
+++ViewStaff.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\viewstaff.resx
+++ViewStuForm.Designer.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\viewstuform.designer.cs
+++ViewStuForm.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\viewstuform.resx
+++ViewTeacher.Designer.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\viewteacher.designer.cs
+++ViewTeacher.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\viewteacher.resx
+++Student.datasource
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\properties\datasources\student.datasource
+++Resources.Designer.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\properties\resources.designer.cs
+++Settings.Designer.cs
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\properties\settings.designer.cs
+++Form1.fr-CA.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\form1.fr-ca.resx
+++Form1.es.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\form1.es.resx
+++DepartmentForm.es.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\departmentform.es.resx
+++DepartmentForm.fr.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\departmentform.fr.resx
+++StaffForm.es.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\staffform.es.resx
+++StaffForm.fr-CA.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\staffform.fr-ca.resx
+++StudentForm.es.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\studentform.es.resx
+++StudentForm.fr-CA.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\studentform.fr-ca.resx
+++AddDepartment.es.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\adddepartment.es.resx
+++AddDepartment.fr.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\adddepartment.fr.resx
+++AddStaffForm.fr.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\addstaffform.fr.resx
+++AddStaffForm.es.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\addstaffform.es.resx
+++AddStudents.fr.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\addstudents.fr.resx
+++AddStudents.es.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\addstudents.es.resx
+++AddTeacher.fr.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\addteacher.fr.resx
+++AddTeacher.es.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\addteacher.es.resx
+++CheckDetailsForm.fr.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\checkdetailsform.fr.resx
+++CheckDetailsForm.es.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\checkdetailsform.es.resx
+++DeanForm.fr.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\deanform.fr.resx
+++DeanForm.es.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\deanform.es.resx
+++SetDeanForm.fr.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\setdeanform.fr.resx
+++SetDeanForm.es.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\setdeanform.es.resx
+++TeacherForm.fr.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\teacherform.fr.resx
+++TeacherForm.es.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\teacherform.es.resx
+++ViewDepartmentForm.fr.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\viewdepartmentform.fr.resx
+++ViewDepartmentForm.es.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\viewdepartmentform.es.resx
+++ViewStaff.es.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\viewstaff.es.resx
+++ViewStaff.fr.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\viewstaff.fr.resx
+++ViewStuForm.es.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\viewstuform.es.resx
+++ViewStuForm.fr.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\viewstuform.fr.resx
+++ViewTeacher.fr.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\viewteacher.fr.resx
+++ViewTeacher.es.resx
+i:{94d4dc98-eb7f-4f98-8d25-675f423cc983}:c:\users\natan\onedrive - vanier college\desktop\winter2022\app dev\teamprojectmain_2_2\teamprojectmain_2\teamproject\teamproject\viewteacher.es.resx

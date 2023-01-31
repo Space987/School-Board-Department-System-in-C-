@@ -1,0 +1,651 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>3218, 1568</value>
+  </data>
+  <data name="enterButton.Text" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="nameTeach.HeaderText" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="resetButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>268, 113</value>
+  </data>
+  <data name="&gt;&gt;nameTeach.Name" xml:space="preserve">
+    <value>nameTeach</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="ageTeach.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;idTeach.Name" xml:space="preserve">
+    <value>idTeach</value>
+  </data>
+  <data name="&gt;&gt;deleteButton.Name" xml:space="preserve">
+    <value>deleteButton</value>
+  </data>
+  <data name="resetButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10.2pt</value>
+  </data>
+  <data name="&gt;&gt;enterButton.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="DateLB.Text" xml:space="preserve">
+    <value>Date</value>
+  </data>
+  <data name="&gt;&gt;searchBtn.Name" xml:space="preserve">
+    <value>searchBtn</value>
+  </data>
+  <data name="DateLB.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="backButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="salaryTeach.HeaderText" xml:space="preserve">
+    <value>Salary</value>
+  </data>
+  <data name="&gt;&gt;updateButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="nameTeach.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;searchBtn.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="enterButton.TabIndex" type="System.Int32, mscorlib">
+    <value>37</value>
+  </data>
+  <data name="searchBtn.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="genderTeach.Width" type="System.Int32, mscorlib">
+    <value>81</value>
+  </data>
+  <data name="backButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>268, 113</value>
+  </data>
+  <data name="&gt;&gt;resetButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;deptChoiceTeach.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;genderTeach.Name" xml:space="preserve">
+    <value>genderTeach</value>
+  </data>
+  <data name="TimeLB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1976, 141</value>
+  </data>
+  <data name="viewStuLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>611, 135</value>
+  </data>
+  <data name="updateButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>551, 275</value>
+  </data>
+  <data name="viewStuLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;isDean.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;resetButton.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;isDean.Name" xml:space="preserve">
+    <value>isDean</value>
+  </data>
+  <data name="salaryTeach.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;TimeLB.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;searchBtn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="teachDataGrid.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>7, 7, 7, 7</value>
+  </data>
+  <data name="&gt;&gt;courseTeach.Name" xml:space="preserve">
+    <value>courseTeach</value>
+  </data>
+  <data name="deleteButton.TabIndex" type="System.Int32, mscorlib">
+    <value>34</value>
+  </data>
+  <data name="backButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>157, 474</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>ViewTeacher</value>
+  </data>
+  <data name="deptChoiceTeach.Width" type="System.Int32, mscorlib">
+    <value>96</value>
+  </data>
+  <data name="deptChoiceTeach.HeaderText" xml:space="preserve">
+    <value>Dept Num</value>
+  </data>
+  <data name="&gt;&gt;timer1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="specialtyTeach.Width" type="System.Int32, mscorlib">
+    <value>94</value>
+  </data>
+  <data name="updateButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>7, 7, 7, 7</value>
+  </data>
+  <data name="&gt;&gt;genderTeach.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;viewStuLabel.Name" xml:space="preserve">
+    <value>viewStuLabel</value>
+  </data>
+  <data name="courseTeach.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;deleteButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ageTeach.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TimeLB.Name" xml:space="preserve">
+    <value>TimeLB</value>
+  </data>
+  <data name="specialtyTeach.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="resetButton.TabIndex" type="System.Int32, mscorlib">
+    <value>33</value>
+  </data>
+  <data name="enterButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>7, 7, 7, 7</value>
+  </data>
+  <data name="&gt;&gt;updateButton.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;DateLB.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="resetButton.Text" xml:space="preserve">
+    <value>Reset</value>
+  </data>
+  <data name="searchBtn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10.2pt</value>
+  </data>
+  <data name="genderTeach.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;specialtyTeach.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;teachDataGrid.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ageTeach.Name" xml:space="preserve">
+    <value>ageTeach</value>
+  </data>
+  <data name="&gt;&gt;idTeach.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;deleteButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="searchTextBox.Text" xml:space="preserve">
+    <value>Enter Teacher ID</value>
+  </data>
+  <data name="&gt;&gt;resetButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="teachDataGrid.Size" type="System.Drawing.Size, System.Drawing">
+    <value>2912, 740</value>
+  </data>
+  <data name="&gt;&gt;searchBtn.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="isDean.HeaderText" xml:space="preserve">
+    <value>Is Dean</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>ViewTeacher</value>
+  </data>
+  <data name="DateLB.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
+  </data>
+  <data name="TimeLB.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="idTeach.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;timer1.Name" xml:space="preserve">
+    <value>timer1</value>
+  </data>
+  <data name="searchBtn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1736, 451</value>
+  </data>
+  <data name="updateButton.TabIndex" type="System.Int32, mscorlib">
+    <value>36</value>
+  </data>
+  <data name="&gt;&gt;salaryTeach.Name" xml:space="preserve">
+    <value>salaryTeach</value>
+  </data>
+  <data name="&gt;&gt;viewStuLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>19, 37</value>
+  </data>
+  <data name="&gt;&gt;TimeLB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="TimeLB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>97, 64</value>
+  </data>
+  <data name="DateLB.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="deleteButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>268, 113</value>
+  </data>
+  <data name="TimeLB.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="viewStuLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1002, 88</value>
+  </data>
+  <data name="&gt;&gt;backButton.Name" xml:space="preserve">
+    <value>backButton</value>
+  </data>
+  <data name="resetButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>572, 474</value>
+  </data>
+  <data name="idTeach.HeaderText" xml:space="preserve">
+    <value>ID</value>
+  </data>
+  <data name="viewStuLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;deptChoiceTeach.Name" xml:space="preserve">
+    <value>deptChoiceTeach</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TimeLB.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="specialtyTeach.HeaderText" xml:space="preserve">
+    <value>Speciality</value>
+  </data>
+  <data name="&gt;&gt;searchTextBox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="DateLB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>90, 64</value>
+  </data>
+  <data name="ageTeach.Width" type="System.Int32, mscorlib">
+    <value>61</value>
+  </data>
+  <data name="&gt;&gt;backButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;enterButton.Name" xml:space="preserve">
+    <value>enterButton</value>
+  </data>
+  <data name="backButton.TabIndex" type="System.Int32, mscorlib">
+    <value>35</value>
+  </data>
+  <data name="enterButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1050, 368</value>
+  </data>
+  <data name="isDean.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="viewStuLabel.Text" xml:space="preserve">
+    <value>Teacher List</value>
+  </data>
+  <data name="courseTeach.HeaderText" xml:space="preserve">
+    <value>Degree</value>
+  </data>
+  <data name="resetButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>7, 7, 7, 7</value>
+  </data>
+  <data name="deleteButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>157, 275</value>
+  </data>
+  <data name="&gt;&gt;viewStuLabel.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="DateLB.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Onyx, 14pt</value>
+  </data>
+  <data name="deleteButton.Text" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="&gt;&gt;backButton.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="searchBtn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>268, 106</value>
+  </data>
+  <data name="&gt;&gt;specialtyTeach.Name" xml:space="preserve">
+    <value>specialtyTeach</value>
+  </data>
+  <data name="&gt;&gt;teachDataGrid.Name" xml:space="preserve">
+    <value>teachDataGrid</value>
+  </data>
+  <data name="nameTeach.Width" type="System.Int32, mscorlib">
+    <value>120</value>
+  </data>
+  <data name="&gt;&gt;updateButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="&gt;&gt;searchTextBox.Name" xml:space="preserve">
+    <value>searchTextBox</value>
+  </data>
+  <data name="teachDataGrid.Location" type="System.Drawing.Point, System.Drawing">
+    <value>221, 659</value>
+  </data>
+  <data name="salaryTeach.Width" type="System.Int32, mscorlib">
+    <value>125</value>
+  </data>
+  <data name="&gt;&gt;searchTextBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="updateButton.Text" xml:space="preserve">
+    <value>Update</value>
+  </data>
+  <data name="teachDataGrid.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="TimeLB.Text" xml:space="preserve">
+    <value>Time</value>
+  </data>
+  <data name="viewStuLabel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>7, 0, 7, 0</value>
+  </data>
+  <data name="&gt;&gt;enterButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="viewStuLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Script MT Bold, 28pt, style=Bold</value>
+  </data>
+  <data name="updateButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>268, 106</value>
+  </data>
+  <data name="&gt;&gt;teachDataGrid.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="searchTextBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>2282, 506</value>
+  </data>
+  <data name="enterButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>268, 106</value>
+  </data>
+  <data name="deptChoiceTeach.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;DateLB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;teachDataGrid.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="deleteButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10.2pt</value>
+  </data>
+  <data name="searchTextBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>7, 7, 7, 7</value>
+  </data>
+  <data name="&gt;&gt;salaryTeach.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="searchBtn.Text" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="&gt;&gt;deleteButton.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;nameTeach.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="TimeLB.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
+  </data>
+  <data name="updateButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10.2pt</value>
+  </data>
+  <data name="backButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10.2pt</value>
+  </data>
+  <data name="&gt;&gt;searchTextBox.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;DateLB.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;updateButton.Name" xml:space="preserve">
+    <value>updateButton</value>
+  </data>
+  <data name="enterButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10.2pt</value>
+  </data>
+  <data name="TimeLB.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Onyx, 14pt</value>
+  </data>
+  <data name="searchBtn.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>7, 7, 7, 7</value>
+  </data>
+  <data name="ageTeach.HeaderText" xml:space="preserve">
+    <value>Age</value>
+  </data>
+  <data name="&gt;&gt;backButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="idTeach.Width" type="System.Int32, mscorlib">
+    <value>49</value>
+  </data>
+  <data name="teachDataGrid.RowHeadersWidth" type="System.Int32, mscorlib">
+    <value>51</value>
+  </data>
+  <data name="&gt;&gt;resetButton.Name" xml:space="preserve">
+    <value>resetButton</value>
+  </data>
+  <data name="genderTeach.HeaderText" xml:space="preserve">
+    <value>Gender</value>
+  </data>
+  <data name="searchTextBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>688, 44</value>
+  </data>
+  <data name="&gt;&gt;DateLB.Name" xml:space="preserve">
+    <value>DateLB</value>
+  </data>
+  <data name="courseTeach.Width" type="System.Int32, mscorlib">
+    <value>79</value>
+  </data>
+  <data name="&gt;&gt;viewStuLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;courseTeach.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;enterButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="backButton.Text" xml:space="preserve">
+    <value>Back</value>
+  </data>
+  <data name="deleteButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>7, 7, 7, 7</value>
+  </data>
+  <data name="searchTextBox.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="isDean.Width" type="System.Int32, mscorlib">
+    <value>125</value>
+  </data>
+  <data name="DateLB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>2328, 141</value>
+  </data>
+  <metadata name="nameTeach.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>es</value>
+  </metadata>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="isDean.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="ageTeach.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="deptChoiceTeach.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="specialtyTeach.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="courseTeach.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="genderTeach.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="idTeach.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="salaryTeach.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+</root>

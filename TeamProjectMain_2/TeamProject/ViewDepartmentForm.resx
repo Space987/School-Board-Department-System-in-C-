@@ -1,0 +1,555 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="TimeLB.Text" xml:space="preserve">
+    <value>Time</value>
+  </data>
+  <data name="&gt;&gt;nameStu.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="DateLB.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="enterButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>7, 7, 7, 7</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="viewStuLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>785, 135</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="updateButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1031, 576</value>
+  </data>
+  <data name="resetButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>268, 106</value>
+  </data>
+  <data name="&gt;&gt;updateButton.Name" xml:space="preserve">
+    <value>updateButton</value>
+  </data>
+  <data name="updateButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>7, 7, 7, 7</value>
+  </data>
+  <data name="&gt;&gt;DateLB.Name" xml:space="preserve">
+    <value>DateLB</value>
+  </data>
+  <data name="enterButton.TabIndex" type="System.Int32, mscorlib">
+    <value>24</value>
+  </data>
+  <data name="&gt;&gt;DepartmentDataGrid.Name" xml:space="preserve">
+    <value>DepartmentDataGrid</value>
+  </data>
+  <data name="checkDetailsButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>268, 132</value>
+  </data>
+  <data name="searchBtn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>164, 321</value>
+  </data>
+  <data name="&gt;&gt;TimeLB.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;backBtn.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;backBtn.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;viewStuLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;resetButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="updateButton.TabIndex" type="System.Int32, mscorlib">
+    <value>23</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>19, 37</value>
+  </data>
+  <data name="viewStuLabel.Text" xml:space="preserve">
+    <value>Department List</value>
+  </data>
+  <data name="&gt;&gt;searchBtn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;nameStu.Name" xml:space="preserve">
+    <value>nameStu</value>
+  </data>
+  <data name="enterButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>268, 106</value>
+  </data>
+  <data name="viewStuLabel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>7, 0, 7, 0</value>
+  </data>
+  <data name="&gt;&gt;TimeLB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="enterButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10.2pt</value>
+  </data>
+  <data name="&gt;&gt;enterButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="deleteButton.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="&gt;&gt;deleteButton.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="TimeLB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1145, 118</value>
+  </data>
+  <data name="checkDetailsButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1499, 870</value>
+  </data>
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="&gt;&gt;enterButton.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="deleteButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1031, 895</value>
+  </data>
+  <data name="&gt;&gt;deleteButton.Name" xml:space="preserve">
+    <value>deleteButton</value>
+  </data>
+  <data name="&gt;&gt;searchBtn.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="nameStu.HeaderText" xml:space="preserve">
+    <value>Description</value>
+  </data>
+  <data name="viewStuLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="resetButton.Text" xml:space="preserve">
+    <value>Reset</value>
+  </data>
+  <data name="idStu.HeaderText" xml:space="preserve">
+    <value>ID</value>
+  </data>
+  <data name="deleteButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10.2pt</value>
+  </data>
+  <data name="updateButton.Text" xml:space="preserve">
+    <value>Update</value>
+  </data>
+  <data name="DateLB.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Onyx, 14pt</value>
+  </data>
+  <data name="&gt;&gt;DateLB.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;resetButton.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="DepartmentDataGrid.Location" type="System.Drawing.Point, System.Drawing">
+    <value>86, 534</value>
+  </data>
+  <data name="DateLB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1575, 118</value>
+  </data>
+  <data name="TimeLB.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="DepartmentDataGrid.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="TimeLB.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
+  </data>
+  <data name="TimeLB.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="&gt;&gt;searchTextBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="TimeLB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>97, 64</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>ViewDepartmentFormcs</value>
+  </data>
+  <data name="resetButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10.2pt</value>
+  </data>
+  <data name="&gt;&gt;checkDetailsButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;timer1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="searchTextBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>7, 7, 7, 7</value>
+  </data>
+  <data name="updateButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>268, 106</value>
+  </data>
+  <data name="&gt;&gt;checkDetailsButton.Name" xml:space="preserve">
+    <value>checkDetailsButton</value>
+  </data>
+  <data name="viewStuLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>169, 65</value>
+  </data>
+  <data name="&gt;&gt;deleteButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;backBtn.Name" xml:space="preserve">
+    <value>backBtn</value>
+  </data>
+  <data name="backBtn.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="&gt;&gt;DateLB.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="deleteButton.Text" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="searchBtn.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="resetButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>7, 7, 7, 7</value>
+  </data>
+  <data name="deleteButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>7, 7, 7, 7</value>
+  </data>
+  <data name="backBtn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10.2pt</value>
+  </data>
+  <data name="checkDetailsButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="&gt;&gt;searchBtn.Name" xml:space="preserve">
+    <value>searchBtn</value>
+  </data>
+  <data name="checkDetailsButton.Text" xml:space="preserve">
+    <value>Check Details</value>
+  </data>
+  <data name="&gt;&gt;updateButton.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="nameStu.Width" type="System.Int32, mscorlib">
+    <value>120</value>
+  </data>
+  <data name="&gt;&gt;updateButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="searchTextBox.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="backBtn.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="TimeLB.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Onyx, 14pt</value>
+  </data>
+  <data name="&gt;&gt;deleteButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;enterButton.Name" xml:space="preserve">
+    <value>enterButton</value>
+  </data>
+  <data name="searchTextBox.Text" xml:space="preserve">
+    <value>Enter Department ID</value>
+  </data>
+  <data name="&gt;&gt;searchBtn.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;enterButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;updateButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="searchBtn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10.2pt</value>
+  </data>
+  <data name="DepartmentDataGrid.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>7, 7, 7, 7</value>
+  </data>
+  <data name="DepartmentDataGrid.RowHeadersWidth" type="System.Int32, mscorlib">
+    <value>51</value>
+  </data>
+  <data name="&gt;&gt;DateLB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="searchTextBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>688, 44</value>
+  </data>
+  <data name="&gt;&gt;idStu.Name" xml:space="preserve">
+    <value>idStu</value>
+  </data>
+  <data name="enterButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1499, 576</value>
+  </data>
+  <data name="idStu.Width" type="System.Int32, mscorlib">
+    <value>49</value>
+  </data>
+  <data name="&gt;&gt;DepartmentDataGrid.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="resetButton.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="DepartmentDataGrid.Size" type="System.Drawing.Size, System.Drawing">
+    <value>788, 539</value>
+  </data>
+  <data name="&gt;&gt;resetButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="backBtn.Text" xml:space="preserve">
+    <value>Back</value>
+  </data>
+  <data name="enterButton.Text" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="updateButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10.2pt</value>
+  </data>
+  <data name="deleteButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>268, 106</value>
+  </data>
+  <data name="&gt;&gt;viewStuLabel.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>ViewDepartmentForm</value>
+  </data>
+  <data name="searchBtn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>268, 106</value>
+  </data>
+  <data name="backBtn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>24, 1346</value>
+  </data>
+  <data name="searchBtn.Text" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="&gt;&gt;backBtn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="viewStuLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;idStu.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TimeLB.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;checkDetailsButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>2097, 1480</value>
+  </data>
+  <data name="&gt;&gt;DepartmentDataGrid.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="backBtn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>268, 106</value>
+  </data>
+  <data name="checkDetailsButton.TabIndex" type="System.Int32, mscorlib">
+    <value>26</value>
+  </data>
+  <data name="&gt;&gt;viewStuLabel.Name" xml:space="preserve">
+    <value>viewStuLabel</value>
+  </data>
+  <data name="&gt;&gt;searchTextBox.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;timer1.Name" xml:space="preserve">
+    <value>timer1</value>
+  </data>
+  <data name="&gt;&gt;resetButton.Name" xml:space="preserve">
+    <value>resetButton</value>
+  </data>
+  <data name="searchTextBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>508, 352</value>
+  </data>
+  <data name="searchBtn.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>7, 7, 7, 7</value>
+  </data>
+  <data name="viewStuLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Script MT Bold, 28pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;viewStuLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;checkDetailsButton.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="checkDetailsButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10.2pt</value>
+  </data>
+  <data name="&gt;&gt;DepartmentDataGrid.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="DateLB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>90, 64</value>
+  </data>
+  <data name="&gt;&gt;searchTextBox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="DateLB.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
+  </data>
+  <data name="idStu.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="resetButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1522, 1346</value>
+  </data>
+  <data name="nameStu.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="DateLB.Text" xml:space="preserve">
+    <value>Date</value>
+  </data>
+  <data name="DateLB.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;searchTextBox.Name" xml:space="preserve">
+    <value>searchTextBox</value>
+  </data>
+  <data name="&gt;&gt;TimeLB.Name" xml:space="preserve">
+    <value>TimeLB</value>
+  </data>
+  <metadata name="idStu.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>fr</value>
+  </metadata>
+  <metadata name="nameStu.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+</root>

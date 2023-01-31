@@ -1,0 +1,786 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>3223, 1862</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>32</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;nameTeach.Name" xml:space="preserve">
+    <value>nameTeach</value>
+  </data>
+  <data name="ageTeach.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;idTeach.Name" xml:space="preserve">
+    <value>idTeach</value>
+  </data>
+  <data name="StaffDataGrid.Size" type="System.Drawing.Size, System.Drawing">
+    <value>2677, 419</value>
+  </data>
+  <data name="&gt;&gt;ageStu.Name" xml:space="preserve">
+    <value>ageStu</value>
+  </data>
+  <data name="&gt;&gt;genderStu.Name" xml:space="preserve">
+    <value>genderStu</value>
+  </data>
+  <data name="stuDataGrid.Location" type="System.Drawing.Point, System.Drawing">
+    <value>337, 224</value>
+  </data>
+  <data name="&gt;&gt;stuDataGrid.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;semesterStu.Name" xml:space="preserve">
+    <value>semesterStu</value>
+  </data>
+  <data name="idStaff.HeaderText" xml:space="preserve">
+    <value>ID</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="viewStuLabel.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>7, 0, 7, 0</value>
+  </data>
+  <data name="salaryTeach.HeaderText" xml:space="preserve">
+    <value>Salary</value>
+  </data>
+  <data name="salaryStaff.HeaderText" xml:space="preserve">
+    <value>Salary</value>
+  </data>
+  <data name="nameTeach.HeaderText" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="nameTeach.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="deptChoiceTeach.HeaderText" xml:space="preserve">
+    <value>Dept Num</value>
+  </data>
+  <data name="genderTeach.Width" type="System.Int32, mscorlib">
+    <value>81</value>
+  </data>
+  <data name="ageStu.HeaderText" xml:space="preserve">
+    <value>Age</value>
+  </data>
+  <data name="backButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>169, 430</value>
+  </data>
+  <data name="courseStu.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;deptChoiceTeach.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>19, 37</value>
+  </data>
+  <data name="&gt;&gt;genderTeach.Name" xml:space="preserve">
+    <value>genderTeach</value>
+  </data>
+  <data name="viewStuLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>611, 135</value>
+  </data>
+  <data name="&gt;&gt;semesterStu.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="viewStuLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="ageStaff.HeaderText" xml:space="preserve">
+    <value>Age</value>
+  </data>
+  <data name="&gt;&gt;isDean.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;teachDataGrid.Name" xml:space="preserve">
+    <value>teachDataGrid</value>
+  </data>
+  <data name="idStu.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;backButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;isDean.Name" xml:space="preserve">
+    <value>isDean</value>
+  </data>
+  <data name="teachDataGrid.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>7, 7, 7, 7</value>
+  </data>
+  <data name="&gt;&gt;StaffDataGrid.Name" xml:space="preserve">
+    <value>StaffDataGrid</value>
+  </data>
+  <data name="nameStu.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="genderStu.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;StaffDataGrid.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;courseTeach.Name" xml:space="preserve">
+    <value>courseTeach</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Student List</value>
+  </data>
+  <data name="backButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>28, 782</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>CheckDetailsForm</value>
+  </data>
+  <data name="deptChoiceTeach.Width" type="System.Int32, mscorlib">
+    <value>96</value>
+  </data>
+  <data name="&gt;&gt;salaryStaff.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="salaryStaff.Width" type="System.Int32, mscorlib">
+    <value>96</value>
+  </data>
+  <data name="idStaff.Width" type="System.Int32, mscorlib">
+    <value>49</value>
+  </data>
+  <data name="nameStaff.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="specialtyTeach.Width" type="System.Int32, mscorlib">
+    <value>94</value>
+  </data>
+  <data name="&gt;&gt;genderTeach.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="courseTeach.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;ageTeach.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="specialtyTeach.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="dutyStaff.HeaderText" xml:space="preserve">
+    <value>Duty</value>
+  </data>
+  <data name="genderStaff.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;genderStu.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;workloadStaff.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1382, 645</value>
+  </data>
+  <data name="StaffDataGrid.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>7, 7, 7, 7</value>
+  </data>
+  <data name="label2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Script MT Bold, 28pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;specialtyTeach.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="genderTeach.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="idStaff.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;idStu.Name" xml:space="preserve">
+    <value>idStu</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="semesterStu.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;teachDataGrid.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ageTeach.Name" xml:space="preserve">
+    <value>ageTeach</value>
+  </data>
+  <data name="&gt;&gt;idTeach.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>595, 135</value>
+  </data>
+  <data name="teachDataGrid.Size" type="System.Drawing.Size, System.Drawing">
+    <value>2677, 405</value>
+  </data>
+  <data name="&gt;&gt;idStaff.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;idStaff.Name" xml:space="preserve">
+    <value>idStaff</value>
+  </data>
+  <data name="workloadStaff.Width" type="System.Int32, mscorlib">
+    <value>94</value>
+  </data>
+  <data name="nameStu.Width" type="System.Int32, mscorlib">
+    <value>120</value>
+  </data>
+  <data name="isDean.HeaderText" xml:space="preserve">
+    <value>Is Dean</value>
+  </data>
+  <data name="label1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>7, 0, 7, 0</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>CheckDetailsForm</value>
+  </data>
+  <data name="nameStaff.Width" type="System.Int32, mscorlib">
+    <value>120</value>
+  </data>
+  <data name="idTeach.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="idStu.HeaderText" xml:space="preserve">
+    <value>ID</value>
+  </data>
+  <data name="&gt;&gt;idStu.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;StaffDataGrid.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ageStaff.Name" xml:space="preserve">
+    <value>ageStaff</value>
+  </data>
+  <data name="&gt;&gt;salaryTeach.Name" xml:space="preserve">
+    <value>salaryTeach</value>
+  </data>
+  <data name="&gt;&gt;viewStuLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="backButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>7, 7, 7, 7</value>
+  </data>
+  <data name="&gt;&gt;salaryStaff.Name" xml:space="preserve">
+    <value>salaryStaff</value>
+  </data>
+  <data name="&gt;&gt;nameStaff.Name" xml:space="preserve">
+    <value>nameStaff</value>
+  </data>
+  <data name="courseStu.Width" type="System.Int32, mscorlib">
+    <value>79</value>
+  </data>
+  <data name="&gt;&gt;genderStaff.Name" xml:space="preserve">
+    <value>genderStaff</value>
+  </data>
+  <data name="&gt;&gt;deptChoiceStaff.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;stuDataGrid.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="deptChoiceStaff.Width" type="System.Int32, mscorlib">
+    <value>125</value>
+  </data>
+  <data name="nameStu.HeaderText" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="&gt;&gt;specialtyTeach.Name" xml:space="preserve">
+    <value>specialtyTeach</value>
+  </data>
+  <data name="viewStuLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1366, 46</value>
+  </data>
+  <data name="&gt;&gt;backButton.Name" xml:space="preserve">
+    <value>backButton</value>
+  </data>
+  <data name="stuDataGrid.RowHeadersWidth" type="System.Int32, mscorlib">
+    <value>51</value>
+  </data>
+  <data name="&gt;&gt;viewStuLabel.Name" xml:space="preserve">
+    <value>viewStuLabel</value>
+  </data>
+  <data name="idTeach.HeaderText" xml:space="preserve">
+    <value>ID</value>
+  </data>
+  <data name="viewStuLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>30</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>31</value>
+  </data>
+  <data name="idStu.Width" type="System.Int32, mscorlib">
+    <value>49</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="specialtyTeach.HeaderText" xml:space="preserve">
+    <value>Speciality</value>
+  </data>
+  <data name="nameStaff.HeaderText" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="semesterStu.HeaderText" xml:space="preserve">
+    <value>Semester</value>
+  </data>
+  <data name="ageTeach.Width" type="System.Int32, mscorlib">
+    <value>61</value>
+  </data>
+  <data name="&gt;&gt;nameStaff.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;backButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="backButton.TabIndex" type="System.Int32, mscorlib">
+    <value>33</value>
+  </data>
+  <data name="genderStaff.Width" type="System.Int32, mscorlib">
+    <value>81</value>
+  </data>
+  <data name="&gt;&gt;courseStu.Name" xml:space="preserve">
+    <value>courseStu</value>
+  </data>
+  <data name="isDean.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;courseStu.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="viewStuLabel.Text" xml:space="preserve">
+    <value>Teacher List</value>
+  </data>
+  <data name="courseTeach.HeaderText" xml:space="preserve">
+    <value>Degree</value>
+  </data>
+  <data name="&gt;&gt;viewStuLabel.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>499, 135</value>
+  </data>
+  <data name="deptChoiceStaff.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;deptChoiceTeach.Name" xml:space="preserve">
+    <value>deptChoiceTeach</value>
+  </data>
+  <data name="StaffDataGrid.TabIndex" type="System.Int32, mscorlib">
+    <value>27</value>
+  </data>
+  <data name="&gt;&gt;backButton.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>7, 0, 7, 0</value>
+  </data>
+  <data name="&gt;&gt;deptChoiceStu.Name" xml:space="preserve">
+    <value>deptChoiceStu</value>
+  </data>
+  <data name="ageStaff.Width" type="System.Int32, mscorlib">
+    <value>61</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="nameTeach.Width" type="System.Int32, mscorlib">
+    <value>120</value>
+  </data>
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1437, 1219</value>
+  </data>
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="deptChoiceStu.Width" type="System.Int32, mscorlib">
+    <value>96</value>
+  </data>
+  <data name="&gt;&gt;workloadStaff.Name" xml:space="preserve">
+    <value>workloadStaff</value>
+  </data>
+  <data name="teachDataGrid.Location" type="System.Drawing.Point, System.Drawing">
+    <value>337, 807</value>
+  </data>
+  <data name="salaryTeach.Width" type="System.Int32, mscorlib">
+    <value>125</value>
+  </data>
+  <data name="stuDataGrid.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>7, 7, 7, 7</value>
+  </data>
+  <data name="&gt;&gt;dutyStaff.Name" xml:space="preserve">
+    <value>dutyStaff</value>
+  </data>
+  <data name="teachDataGrid.TabIndex" type="System.Int32, mscorlib">
+    <value>29</value>
+  </data>
+  <data name="deptChoiceStu.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="StaffDataGrid.RowHeadersWidth" type="System.Int32, mscorlib">
+    <value>51</value>
+  </data>
+  <data name="courseStu.HeaderText" xml:space="preserve">
+    <value>Course</value>
+  </data>
+  <data name="stuDataGrid.TabIndex" type="System.Int32, mscorlib">
+    <value>28</value>
+  </data>
+  <data name="viewStuLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Script MT Bold, 28pt, style=Bold</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Staff List</value>
+  </data>
+  <data name="deptChoiceStaff.HeaderText" xml:space="preserve">
+    <value>Dept Num</value>
+  </data>
+  <data name="semesterStu.Width" type="System.Int32, mscorlib">
+    <value>94</value>
+  </data>
+  <data name="&gt;&gt;stuDataGrid.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;teachDataGrid.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="dutyStaff.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;StaffDataGrid.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="deptChoiceTeach.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="workloadStaff.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;teachDataGrid.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;deptChoiceStaff.Name" xml:space="preserve">
+    <value>deptChoiceStaff</value>
+  </data>
+  <data name="idTeach.Width" type="System.Int32, mscorlib">
+    <value>49</value>
+  </data>
+  <data name="&gt;&gt;salaryTeach.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="dutyStaff.Width" type="System.Int32, mscorlib">
+    <value>79</value>
+  </data>
+  <data name="&gt;&gt;nameTeach.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="workloadStaff.HeaderText" xml:space="preserve">
+    <value>Workload</value>
+  </data>
+  <data name="&gt;&gt;nameStu.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="salaryTeach.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Script MT Bold, 28pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;deptChoiceStu.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="stuDataGrid.Size" type="System.Drawing.Size, System.Drawing">
+    <value>2677, 414</value>
+  </data>
+  <data name="&gt;&gt;stuDataGrid.Name" xml:space="preserve">
+    <value>stuDataGrid</value>
+  </data>
+  <data name="&gt;&gt;ageStaff.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="ageTeach.HeaderText" xml:space="preserve">
+    <value>Age</value>
+  </data>
+  <data name="ageStu.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="genderStu.HeaderText" xml:space="preserve">
+    <value>Gender</value>
+  </data>
+  <data name="teachDataGrid.RowHeadersWidth" type="System.Int32, mscorlib">
+    <value>51</value>
+  </data>
+  <data name="&gt;&gt;nameStu.Name" xml:space="preserve">
+    <value>nameStu</value>
+  </data>
+  <data name="ageStaff.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="genderStu.Width" type="System.Int32, mscorlib">
+    <value>81</value>
+  </data>
+  <data name="&gt;&gt;dutyStaff.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ageStu.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="genderTeach.HeaderText" xml:space="preserve">
+    <value>Gender</value>
+  </data>
+  <data name="ageStu.Width" type="System.Int32, mscorlib">
+    <value>61</value>
+  </data>
+  <data name="genderStaff.HeaderText" xml:space="preserve">
+    <value>Gender</value>
+  </data>
+  <data name="courseTeach.Width" type="System.Int32, mscorlib">
+    <value>79</value>
+  </data>
+  <data name="salaryStaff.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;viewStuLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="StaffDataGrid.Location" type="System.Drawing.Point, System.Drawing">
+    <value>337, 1388</value>
+  </data>
+  <data name="&gt;&gt;courseTeach.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="backButton.Text" xml:space="preserve">
+    <value>Back</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;genderStaff.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="isDean.Width" type="System.Int32, mscorlib">
+    <value>125</value>
+  </data>
+  <data name="deptChoiceStu.HeaderText" xml:space="preserve">
+    <value>Dept Num</value>
+  </data>
+  <metadata name="nameTeach.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="ageTeach.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="deptChoiceStaff.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="deptChoiceTeach.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="genderStu.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="nameStu.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="genderTeach.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="semesterStu.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="deptChoiceStu.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="courseStu.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="courseTeach.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="salaryTeach.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="specialtyTeach.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="isDean.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="dutyStaff.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="nameStaff.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="workloadStaff.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="ageStaff.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="genderStaff.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>es</value>
+  </metadata>
+  <metadata name="ageStu.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="salaryStaff.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="idStaff.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="idStu.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="idTeach.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+</root>

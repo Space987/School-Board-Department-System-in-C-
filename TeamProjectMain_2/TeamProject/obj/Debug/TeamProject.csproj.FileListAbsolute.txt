@@ -1,0 +1,203 @@
+C:\Users\ben_1\Desktop\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.AssemblyReference.cache
+C:\Users\ben_1\Desktop\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\ben_1\Desktop\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.AddStaffForm.resources
+C:\Users\ben_1\Desktop\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.AddStudents.resources
+C:\Users\ben_1\Desktop\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.AddTeacher.resources
+C:\Users\ben_1\Desktop\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.Form1.resources
+C:\Users\ben_1\Desktop\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.StaffForm.resources
+C:\Users\ben_1\Desktop\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.StudentForm.resources
+C:\Users\ben_1\Desktop\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.TeacherForm.resources
+C:\Users\ben_1\Desktop\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.ViewStaff.resources
+C:\Users\ben_1\Desktop\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.ViewStuForm.resources
+C:\Users\ben_1\Desktop\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.ViewTeacher.resources
+C:\Users\ben_1\Desktop\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\ben_1\Desktop\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+C:\Users\ben_1\Desktop\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\ben_1\Desktop\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\bin\Debug\TeamProject.exe.config
+C:\Users\ben_1\Desktop\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\ben_1\Desktop\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\ben_1\Desktop\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.exe
+C:\Users\ben_1\Desktop\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.pdb
+C:\Users\natan\OneDrive - Vanier College\Documents\VisualStudioProject\TeamProjectMain\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.AssemblyReference.cache
+C:\Users\natan\OneDrive - Vanier College\Documents\VisualStudioProject\TeamProjectMain\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\natan\OneDrive - Vanier College\Documents\VisualStudioProject\TeamProjectMain\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.AddStaffForm.resources
+C:\Users\natan\OneDrive - Vanier College\Documents\VisualStudioProject\TeamProjectMain\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.AddStudents.resources
+C:\Users\natan\OneDrive - Vanier College\Documents\VisualStudioProject\TeamProjectMain\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.AddTeacher.resources
+C:\Users\natan\OneDrive - Vanier College\Documents\VisualStudioProject\TeamProjectMain\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.Form1.resources
+C:\Users\natan\OneDrive - Vanier College\Documents\VisualStudioProject\TeamProjectMain\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+C:\Users\natan\OneDrive - Vanier College\Documents\VisualStudioProject\TeamProjectMain\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.StaffForm.resources
+C:\Users\natan\OneDrive - Vanier College\Documents\VisualStudioProject\TeamProjectMain\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.StudentForm.resources
+C:\Users\natan\OneDrive - Vanier College\Documents\VisualStudioProject\TeamProjectMain\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.TeacherForm.resources
+C:\Users\natan\OneDrive - Vanier College\Documents\VisualStudioProject\TeamProjectMain\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.ViewStaff.resources
+C:\Users\natan\OneDrive - Vanier College\Documents\VisualStudioProject\TeamProjectMain\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.ViewStuForm.resources
+C:\Users\natan\OneDrive - Vanier College\Documents\VisualStudioProject\TeamProjectMain\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.ViewTeacher.resources
+C:\Users\natan\OneDrive - Vanier College\Documents\VisualStudioProject\TeamProjectMain\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\natan\OneDrive - Vanier College\Documents\VisualStudioProject\TeamProjectMain\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\natan\OneDrive - Vanier College\Documents\VisualStudioProject\TeamProjectMain\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.exe
+C:\Users\natan\OneDrive - Vanier College\Documents\VisualStudioProject\TeamProjectMain\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.pdb
+C:\Users\natan\OneDrive - Vanier College\Documents\VisualStudioProject\TeamProjectMain\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\bin\Debug\TeamProject.exe.config
+C:\Users\natan\OneDrive - Vanier College\Documents\VisualStudioProject\TeamProjectMain\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\natan\OneDrive - Vanier College\Documents\VisualStudioProject\TeamProjectMain\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\natan\OneDrive - Vanier College\Documents\VisualStudioProject\TeamProjectMain\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.DeanForm.resources
+C:\Users\natan\OneDrive - Vanier College\Documents\VisualStudioProject\TeamProjectMain\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.DepartmentForm.resources
+C:\Users\natan\OneDrive - Vanier College\Documents\VisualStudioProject\TeamProjectMain\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.ViewDepartmentForm.resources
+C:\Users\natan\OneDrive - Vanier College\Documents\VisualStudioProject\TeamProjectMain\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.AddDepartment.resources
+C:\Users\natan\OneDrive - Vanier College\Documents\VisualStudioProject\TeamProjectMain\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.SetDeanForm.resources
+C:\Users\natan\OneDrive - Vanier College\Documents\VisualStudioProject\TeamProjectMain\TeamProjectMain\TeamProject_2\TeamProject\TeamProject\obj\Debug\TeamProject.CheckDetailsForm.resources
+C:\Users\ben_1\Desktop\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.AssemblyReference.cache
+C:\Users\ben_1\Desktop\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\ben_1\Desktop\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.AddDepartment.resources
+C:\Users\ben_1\Desktop\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.AddStaffForm.resources
+C:\Users\ben_1\Desktop\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.AddStudents.resources
+C:\Users\ben_1\Desktop\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.AddTeacher.resources
+C:\Users\ben_1\Desktop\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.CheckDetailsForm.resources
+C:\Users\ben_1\Desktop\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.DeanForm.resources
+C:\Users\ben_1\Desktop\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.DepartmentForm.resources
+C:\Users\ben_1\Desktop\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.Form1.resources
+C:\Users\ben_1\Desktop\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+C:\Users\ben_1\Desktop\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.SetDeanForm.resources
+C:\Users\ben_1\Desktop\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.StaffForm.resources
+C:\Users\ben_1\Desktop\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.StudentForm.resources
+C:\Users\ben_1\Desktop\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.TeacherForm.resources
+C:\Users\ben_1\Desktop\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.ViewDepartmentForm.resources
+C:\Users\ben_1\Desktop\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.ViewStaff.resources
+C:\Users\ben_1\Desktop\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.ViewStuForm.resources
+C:\Users\ben_1\Desktop\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.ViewTeacher.resources
+C:\Users\ben_1\Desktop\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\ben_1\Desktop\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\ben_1\Desktop\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.exe
+C:\Users\ben_1\Desktop\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.pdb
+C:\Users\ben_1\Desktop\TeamProjectMain_2\TeamProject\TeamProject\bin\Debug\TeamProject.exe.config
+C:\Users\ben_1\Desktop\TeamProjectMain_2\TeamProject\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\ben_1\Desktop\TeamProjectMain_2\TeamProject\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\bin\Debug\TeamProject.exe.config
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.AssemblyReference.cache
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.AddDepartment.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.AddStaffForm.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.AddStudents.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.AddTeacher.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.CheckDetailsForm.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.DeanForm.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.DepartmentForm.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.Form1.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.SetDeanForm.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.StaffForm.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.StudentForm.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.TeacherForm.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.ViewDepartmentForm.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.ViewStaff.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.ViewStuForm.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.ViewTeacher.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.exe
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.pdb
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\bin\Debug\fr-CA\TeamProject.resources.dll
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.Form1.fr-CA.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\fr-CA\TeamProject.resources.dll
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\bin\Debug\es\TeamProject.resources.dll
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.Form1.es.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\es\TeamProject.resources.dll
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.DepartmentForm.es.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.DepartmentForm.fr.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\fr\TeamProject.resources.dll
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\bin\Debug\fr\TeamProject.resources.dll
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.StaffForm.es.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.StaffForm.fr-CA.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.StudentForm.es.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.StudentForm.fr-CA.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.AddDepartment.es.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.AddDepartment.fr.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.AddStaffForm.es.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.AddStaffForm.fr.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.AddStudents.fr.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.AddStudents.es.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.AddTeacher.es.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.AddTeacher.fr.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.CheckDetailsForm.es.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.CheckDetailsForm.fr.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.DeanForm.es.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.DeanForm.fr.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.SetDeanForm.es.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.SetDeanForm.fr.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.TeacherForm.es.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.TeacherForm.fr.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.ViewDepartmentForm.es.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.ViewDepartmentForm.fr.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.ViewStaff.es.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.ViewStaff.fr.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.ViewStuForm.es.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.ViewStuForm.fr.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.ViewTeacher.es.resources
+C:\Users\natan\OneDrive - Vanier College\Desktop\Winter2022\App Dev\TeamProjectMain_2_2\TeamProjectMain_2\TeamProject\TeamProject\obj\Debug\TeamProject.ViewTeacher.fr.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\bin\Debug\TeamProject.exe.config
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\bin\Debug\es\TeamProject.resources.dll
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\bin\Debug\fr\TeamProject.resources.dll
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\bin\Debug\en\TeamProject.resources.dll
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\bin\Debug\fr-CA\TeamProject.resources.dll
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.csproj.AssemblyReference.cache
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.AddDepartment.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.AddStaffForm.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.AddStudents.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.AddTeacher.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.CheckDetailsForm.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.DeanForm.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.DepartmentForm.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.Form1.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.SetDeanForm.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.StaffForm.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.StudentForm.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.TeacherForm.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.ViewDepartmentForm.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.ViewStaff.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.ViewStuForm.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.ViewTeacher.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.AddDepartment.es.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.AddDepartment.fr.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.AddStaffForm.es.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.AddStaffForm.fr.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.AddStudents.es.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.AddStudents.fr.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.AddTeacher.es.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.AddTeacher.fr.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.CheckDetailsForm.es.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.CheckDetailsForm.fr.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.DeanForm.es.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.DeanForm.fr.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.DepartmentForm.es.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.DepartmentForm.fr.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.Form1.en.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.Form1.es.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.Form1.fr-CA.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.SetDeanForm.es.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.SetDeanForm.fr.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.StaffForm.es.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.StaffForm.fr-CA.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.StudentForm.es.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.StudentForm.fr-CA.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.TeacherForm.es.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.TeacherForm.fr.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.ViewDepartmentForm.es.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.ViewDepartmentForm.fr.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.ViewStaff.es.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.ViewStaff.fr.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.ViewStuForm.es.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.ViewStuForm.fr.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.ViewTeacher.es.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.ViewTeacher.fr.resources
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\es\TeamProject.resources.dll
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\fr\TeamProject.resources.dll
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\en\TeamProject.resources.dll
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\fr-CA\TeamProject.resources.dll
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.exe
+C:\Users\ben_1\Documents\Vanier Work 4\Application Development\FinalProject\TeamProjectMain_2\TeamProject\obj\Debug\TeamProject.pdb
